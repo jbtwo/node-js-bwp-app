@@ -470,5 +470,6 @@ h3 {
   margin: auto;
   padding: 15px;
   background: rbg(144,144,144,0.7);
+  padding: 10px;
   max-width: 450px
 }

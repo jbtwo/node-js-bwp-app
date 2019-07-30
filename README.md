@@ -6,7 +6,6 @@ An example using [js-buy-sdk](https://github.com/Shopify/js-buy-sdk) built with 
 * Added all dependencies to `package.json`
 * Added `app.yaml` file
 * Changed `src/app.js` to listen on port 8080
-* Added brand logo
 * Changed stylesheet directory, updated `src/app.js` accordingly
 
 ## Customizations made to app
@@ -14,4 +13,4 @@ An example using [js-buy-sdk](https://github.com/Shopify/js-buy-sdk) built with 
 * Changed header image to match brand
 * Added brand logo
 * Added h3 text
-* Added backgrounds to make text legible
+* Added backgrounds to make text legible (ugly, but legible)
