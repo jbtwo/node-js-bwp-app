@@ -469,6 +469,6 @@ h3 {
 .header-logo {
   margin: auto;
   padding: 15px;
-  background: rbg(144,144,144,0.7)
+  background: rbg(144,144,144,0.7);
   max-width: 450px
 }
